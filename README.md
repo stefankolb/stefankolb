@@ -10,7 +10,8 @@
   I'm a software developer, mostly focused on (web) frontend technologies.
 
 
-  [![Stefan's github stats](https://github-readme-stats.vercel.app/api?username=stefankolb&show_icons=true&theme=gruvbox)](https://github.com/stefankolb)
+  [![Stefan's github stats](https://github-readme-stats.vercel.app/api?username=stefankolb&show_icons=true&theme=gruvbox)](https://github.com/stefankolb)<br />
+  [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolb&layout=compact&theme=gruvbox)](https://github.com/stefankolb)
 
   [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3917816?label=stackoverflow&logo=stackoverflow)](https://stackoverflow.com/users/3917816/stefan)
   [![Twitter Follow](https://img.shields.io/twitter/follow/stefan_kolb?label=twitter&style=social)](https://twitter.com/stefan_kolb)
