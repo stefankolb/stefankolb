@@ -3,7 +3,8 @@
   ### Hi, I'm Stefan 👋
 
   [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/stefan_kolb)](https://twitter.com/stefan_kolb)
-  [![XING Badge](https://img.shields.io/badge/-XING-006567?style=flat-square&labelColor=006567&logo=xing&logoColor=white&link=https://www.xing.com/profile/Stefan_Kolb28)](https://www.xing.com/profile/Stefan_Kolb28)
+  [![XING Badge](https://img.shields.io/badge/-XING-006567?style=flat-square&logo=xing&link=https://www.xing.com/profile/Stefan_Kolb28)](https://www.xing.com/profile/Stefan_Kolb28)
+  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0073b1?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/stefankolb/)](https://www.linkedin.com/in/stefankolb/)
 
   ---
 
