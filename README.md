@@ -8,7 +8,7 @@
 
   ---
 
-  I'm a software developer, mostly focused on (web) frontend technologies.
+  I'm a software developer, mostly focused on (mobile) web frontend technologies.
 
 
   [![Stefan's github stats](https://github-readme-stats.vercel.app/api?username=stefankolb&show_icons=true&theme=gruvbox)](https://github.com/stefankolb)<br />
