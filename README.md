@@ -16,6 +16,7 @@ I'm a software developer, mostly focused on (mobile) web frontend technologies.
 My latest blog posts on <a href="https://blog.stefankolb.de">my blog</a>:
 
 <!-- BLOG-POST-LIST:START -->
+- [Create an RSS feed for your DEV.to Reading List](https://blog.stefankolb.de/posts/dev-3-rss-feed-for-dev-to-reading-list)
 - [Fuzzy search for Astro using fzf and Preact](https://blog.stefankolb.de/posts/dev-2-fuzzy-search-for-astro-using-fzf-and-preact)
 - [A fresh start](https://blog.stefankolb.de/posts/common-1-a-fresh-start)
 <!-- BLOG-POST-LIST:END -->
