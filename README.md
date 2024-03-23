@@ -2,7 +2,6 @@
 
   ### Hi, I'm Stefan 👋
 
-  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/stefan_kolb)](https://twitter.com/stefan_kolb)
   [![Mastodon Badge](https://img.shields.io/badge/-Mastdon-6364ff?style=flat-square&logo=mastodon&logoColor=white&link=https://mastodon.social/@stefankolb)](https://mastodon.social/@stefankolb)
   [![XING Badge](https://img.shields.io/badge/-XING-006567?style=flat-square&logo=xing&link=https://www.xing.com/profile/Stefan_Kolb28)](https://www.xing.com/profile/Stefan_Kolb28)
   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0073b1?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/stefankolb/)](https://www.linkedin.com/in/stefankolb/)
@@ -30,7 +29,7 @@ My latest blog posts on <a href="https://blog.stefankolb.de">my blog</a>:
 <div align="center">
 
   [![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/3917816?label=stackoverflow&logo=stackoverflow&style=plain)](https://stackoverflow.com/users/3917816/stefan)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/stefan_kolb?label=twitter&logo=twitter&style=plain)](https://twitter.com/stefan_kolb)
+  [![GitHub Follow](https://img.shields.io/github/followers/stefankolb?label=github&logo=github&style=plain)](https://github.com/stefankolb)
   [![Mastodon Follow](https://img.shields.io/mastodon/follow/000480228?label=mastodon&logo=mastodon&style=plain)](https://twitter.com/stefan_kolb)
 
 </div>
