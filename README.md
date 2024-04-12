@@ -19,6 +19,7 @@ My latest blog posts on <a href="https://blog.stefankolb.de">my blog</a>:
 - [Create an RSS feed for your DEV.to Reading List](https://blog.stefankolb.de/posts/dev-3-rss-feed-for-dev-to-reading-list)
 - [Fuzzy search for Astro using fzf and Preact](https://blog.stefankolb.de/posts/dev-2-fuzzy-search-for-astro-using-fzf-and-preact)
 - [A fresh start](https://blog.stefankolb.de/posts/common-1-a-fresh-start)
+- [Synchronize Atom.io&#39;s settings across devices](https://blog.stefankolb.de/posts/tips-and-tricks-22-synchronize-atomio-settings)
 <!-- BLOG-POST-LIST:END -->
 
 <div style="display: flex; align-items: center;">
