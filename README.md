@@ -12,7 +12,10 @@
 
 I'm a software developer, mostly focused on (mobile) web frontend technologies.
 
-My latest blog posts on <a href="https://blog.stefankolb.de">my blog</a>:
+
+### 📘 Latest Blog Posts
+
+These are the latest posts on <a href="https://blog.stefankolb.de">my blog</a>:
 
 <!-- BLOG-POST-LIST:START -->
 - [Exclude node_modules folder from Time Machine backup](https://blog.stefankolb.de/posts/tips-and-tricks-4-exclude-node_modules-folder-from-time-machine-backup-short)
@@ -22,9 +25,39 @@ My latest blog posts on <a href="https://blog.stefankolb.de">my blog</a>:
 - [Synchronize Atom.io&#39;s settings across devices](https://blog.stefankolb.de/posts/tips-and-tricks-22-synchronize-atomio-settings)
 <!-- BLOG-POST-LIST:END -->
 
-<div style="display: flex; align-items: center;">
 
-  [![Stefan's github stats](https://github-readme-stats.vercel.app/api?username=stefankolb&show_icons=true&theme=gruvbox)](https://github.com/stefankolb)<br />
+### 🛠️ Tech Stack
+
+<div style="display: flex; align-items: center; margin-bottom: 24px;">
+  <!-- HTML -->
+  <img src="logos/html.svg" style="margin-right: 8px;" />
+  <!-- CSS -->
+  <img src="logos/css.svg" style="margin-right: 8px;" />
+  <!-- JavaScript -->
+  <img src="logos/javascript.svg" style="margin-right: 8px;" />
+  <!-- Sass -->
+  <img src="logos/sass.svg" style="margin-right: 8px;" />
+  <!-- React -->
+  <img src="logos/react.svg" style="margin-right: 8px;" />
+  <!-- Git -->
+  <img src="logos/git.svg" style="margin-right: 8px;" />
+  <!-- Gitea -->
+  <img src="logos/gitea.svg" style="margin-right: 8px;" />
+  <!-- Github -->
+  <img src="logos/github.svg" style="margin-right: 8px;" />
+  <!-- Visual Studio Code -->
+  <img src="logos/vscode.svg" style="margin-right: 8px;" />
+  <!-- MDX -->
+  <img src="logos/mdx.svg" style="margin-right: 8px;" />
+  <!-- Command Line -->
+  <img src="logos/cli.svg" style="margin-right: 8px;" />
+</div>
+
+----
+
+<div align="center">
+
+  [![Stefan's github stats](https://github-readme-stats.vercel.app/api?username=stefankolb&show_icons=true&theme=gruvbox)](https://github.com/stefankolb)
   [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefankolb&layout=compact&theme=gruvbox)](https://github.com/stefankolb)
 
 </div>
@@ -42,19 +75,7 @@ My latest blog posts on <a href="https://blog.stefankolb.de">my blog</a>:
 
   From [stefankolb](https://github.com/stefankolb) @ :octocat:
 
+  ![bla](https://img.shields.io/badge/last_updated-2024/10/28-blue)
+
+
 </div>
-
-<!--
-**stefankolb/stefankolb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
