@@ -29,16 +29,25 @@ These are the latest posts on <a href="https://blog.stefankolb.de">my blog</a>:
 ### 🛠️ Tech Stack
 
 <div style="display: flex; align-items: center; margin-bottom: 24px;">
+  <!-- Standards -->
   <!-- HTML -->
   <img src="logos/html.svg" style="margin-right: 8px;" />
   <!-- CSS -->
   <img src="logos/css.svg" style="margin-right: 8px;" />
   <!-- JavaScript -->
   <img src="logos/javascript.svg" style="margin-right: 8px;" />
+
+  <!-- Frameworks -->
+  <!-- Node.js -->
+  <img src="logos/nodejs.svg" style="margin-right: 8px;" />
   <!-- Sass -->
   <img src="logos/sass.svg" style="margin-right: 8px;" />
   <!-- React -->
   <img src="logos/react.svg" style="margin-right: 8px;" />
+
+  <!-- Tools -->
+  <!-- Vite -->
+  <img src="logos/vitejs.svg" style="margin-right: 8px;" />
   <!-- Git -->
   <img src="logos/git.svg" style="margin-right: 8px;" />
   <!-- Gitea -->
@@ -75,7 +84,7 @@ These are the latest posts on <a href="https://blog.stefankolb.de">my blog</a>:
 
   From [stefankolb](https://github.com/stefankolb) @ :octocat:
 
-  ![bla](https://img.shields.io/badge/last_updated-2024/10/28-blue)
+  ![bla](https://img.shields.io/badge/last_updated-2024/11/01-blue)
 
 
 </div>
