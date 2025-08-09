@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### Hi, I'm Stefan 👋
+  ![Header](images/banner.png)
 
   [![Mastodon Badge](https://img.shields.io/badge/-Mastdon-6364ff?style=flat-square&logo=mastodon&logoColor=white&link=https://mastodon.social/@stefankolb)](https://mastodon.social/@stefankolb)
   [![XING Badge](https://img.shields.io/badge/-XING-006567?style=flat-square&logo=xing&link=https://www.xing.com/profile/Stefan_Kolb28)](https://www.xing.com/profile/Stefan_Kolb28)
@@ -10,7 +10,7 @@
 
 ---
 
-I'm a software developer, mostly focused on (mobile) web frontend technologies.
+I'm a software engineer, mostly focused on (mobile) web frontend technologies.
 
 
 ### 📘 Latest Blog Posts
